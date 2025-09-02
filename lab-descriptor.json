@@ -6,7 +6,7 @@
     },
     "lab": "Internet of Things (IoT)",
     "lab_display_name": "Internet of Things (IoT)",
-    "phase": 3,
+    "phase": "3-ext",
     "collegeName": "AMRT",
     "baseUrl": "iot-amrt.vlabs.ac.in",
     "introduction": "The Internet of Things (IoT) Virtual Lab, aligned with the AICTE curriculum, is designed to bridge the gap between theoretical understanding and hands-on application of IoT technologies. This lab empowers students to explore the core components of IoT systems, experiment with embedded programming, and build functional prototypes—all within a virtual environment that minimizes hardware costs and accelerates iteration cycles.<br>By simulating real-world scenarios and enabling cloud connectivity, the lab fosters creativity, problem-solving, and technical fluency. Whether students are designing sensor-based systems or developing cloud-integrated applications, the virtual lab offers a dynamic platform to learn, test, and innovate",
