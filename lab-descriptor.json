@@ -77,6 +77,6 @@
     "objective": "Conceptual Mastery: Understand the architecture and components of IoT systems, including sensors, microcontrollers, and communication protocols.<br><ul><li>Hands-on Skills: Develop embedded programs and build IoT prototypes using platforms like Arduino and Raspberry Pi.</li><li>Sensor Integration: Identify and utilize sensor technologies to capture real-world data across industrial and social domains.</li><li>Application Development: Apply IoT concepts to create meaningful, scalable solutions for real-world challenges using virtualized hardware environments.</li>",
     "courseAlignment": {
         "description": "Internet of Things",
-        "universities": []
+        "universities": [""]
     }
 }
