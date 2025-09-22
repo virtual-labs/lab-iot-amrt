@@ -76,7 +76,9 @@
     },
     "objective": "Conceptual Mastery: Understand the architecture and components of IoT systems, including sensors, microcontrollers, and communication protocols.<br><ul><li>Hands-on Skills: Develop embedded programs and build IoT prototypes using platforms like Arduino and Raspberry Pi.</li><li>Sensor Integration: Identify and utilize sensor technologies to capture real-world data across industrial and social domains.</li><li>Application Development: Apply IoT concepts to create meaningful, scalable solutions for real-world challenges using virtualized hardware environments.</li>",
     "courseAlignment": {
-        "description": "Internet of Things",
-        "universities": [""]
+        "description": "The syllabi of this lab aligns to the following universities in India.",
+        "universities": ["Anna University; EC5022; IoT ENABLED SYSTEMS DESIGN, CS6014; IOT and Smart Appliances","Visvesvaraya Technological University (VTU);18IC56; Principles of Internet of Things","Jawaharlal Nehru Technological University (JNTU);20A35301T; Sensor and internet of Things Student Feedback and Learning"]
+
+
     }
 }
