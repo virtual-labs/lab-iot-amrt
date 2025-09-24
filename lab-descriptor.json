@@ -12,56 +12,56 @@
     "introduction": "The Internet of Things (IoT) Virtual Lab, aligned with the AICTE curriculum, is designed to bridge the gap between theoretical understanding and hands-on application of IoT technologies. This lab empowers students to explore the core components of IoT systems, experiment with embedded programming, and build functional prototypes—all within a virtual environment that minimizes hardware costs and accelerates iteration cycles.<br>By simulating real-world scenarios and enabling cloud connectivity, the lab fosters creativity, problem-solving, and technical fluency. Whether students are designing sensor-based systems or developing cloud-integrated applications, the virtual lab offers a dynamic platform to learn, test, and innovate",
     "experiments": [
         {
-            "name": "Introduction to Raspberry PI platform and necessary software installation",
+            "name": "Introduction to Raspberry PI",
             "short-name": "introduction-raspberry-pi",
             "repo": "https://github.com/virtual-labs/exp-introduction-raspberry-pi-au",
             "tag": "v1.0.0",
             "deploy": true
         },
         {
-            "name": "To interface LED with Raspberry Pi and write a program to turn ON LED or 1 sec after every 2 seconds",
+            "name": "Raspberry Pi LED Blink Program",
             "short-name": "interface-led-pi",
             "repo": "https://github.com/virtual-labs/exp-interface-led-with-pi-au",
             "tag": "v1.0.0",
             "deploy": true
         },
         {
-            "name": "To interface Push button/Digital sensor (IR/LDR) with Raspberry Pi and write a program to turn ON LED when push button is pressed or at sensor detection",
+            "name": "Raspberry Pi Push Button LED Blink Program",
             "short-name": "interface-push-sensor-pi",
             "repo": "https://github.com/virtual-labs/exp-interface-push-sensor-au",
             "tag": "v1.0.0",
             "deploy": true
         },
         {
-            "name": "To interface DHT11 sensor with Raspberry Pi and write a program to print temperature and humidity readings",
+            "name": "DHT11 sensor with Raspberry Pi Program",
             "short-name": "dht11-sensor-pi",
             "repo": "https://github.com/virtual-labs/exp-dht11-sensor-au",
             "tag": "v1.0.0",
             "deploy": true
         },
         {
-            "name": "To interface Ultrasonic sensor with Raspberry Pi and write a program to print temperature and humidity readings",
+            "name": "Raspberry Pi Ultrasonic Sensor Interface Program",
             "short-name": "ultrasonic-sensor-pi",
             "repo": "https://github.com/virtual-labs/exp-ultrasonic-sensor-pi-au",
             "tag": "v1.0.0",
             "deploy": true
         },
         {
-            "name": "To interface motor using relay with Raspberry Pi and write a program to turn ON motor when push button is pressed",
+            "name": "Raspberry Pi Motor Control with Relay",
             "short-name": "motor-relay-pi",
             "repo": "https://github.com/virtual-labs/exp-interface-motor-pi-au",
             "tag": "v1.0.0",
             "deploy": true
         },
         {
-            "name": "To interface Bluetooth module with Raspberry Pi and write a program to send sensor data to smartphone using Bluetooth",
+            "name": "Raspberry Pi Bluetooth Data Transfer to Smartphone",
             "short-name": "bluetooth-module-pi",
             "repo": "https://github.com/virtual-labs/exp-bluetooth-module-pi-au",
-            "tag": "v1.0.0",
+            "tag": "v1.1.0",
             "deploy": true
         },
         {
-            "name": "To interface Bluetooth with Raspberry Pi and write a program to turn LED ON/OFF when ‘1’/’0’ is received from smartphone using Bluetooth",
+            "name": "Raspberry Pi Pico-LED Blink Program Via Bluetooth and Smartphone",
             "short-name": "bluetooth-led-control-pi",
             "repo": "https://github.com/virtual-labs/exp-interface-bluetooth-with-pi-au",
             "tag": "v1.0.0",
