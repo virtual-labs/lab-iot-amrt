@@ -15,42 +15,42 @@
             "name": "Introduction to Raspberry PI",
             "short-name": "introduction-raspberry-pi",
             "repo": "https://github.com/virtual-labs/exp-introduction-raspberry-pi-au",
-            "tag": "v1.0.0",
+            "tag": "v1.1.0",
             "deploy": true
         },
         {
             "name": "Raspberry Pi LED Blink Program",
             "short-name": "interface-led-pi",
             "repo": "https://github.com/virtual-labs/exp-interface-led-with-pi-au",
-            "tag": "v1.0.0",
+            "tag": "v1.1.0",
             "deploy": true
         },
         {
             "name": "Raspberry Pi Push Button LED Blink Program",
             "short-name": "interface-push-sensor-pi",
             "repo": "https://github.com/virtual-labs/exp-interface-push-sensor-au",
-            "tag": "v1.0.0",
+            "tag": "v1.1.0",
             "deploy": true
         },
         {
             "name": "DHT11 sensor with Raspberry Pi Program",
             "short-name": "dht11-sensor-pi",
             "repo": "https://github.com/virtual-labs/exp-dht11-sensor-au",
-            "tag": "v1.0.0",
+            "tag": "v1.1.0",
             "deploy": true
         },
         {
             "name": "Raspberry Pi Ultrasonic Sensor Interface Program",
             "short-name": "ultrasonic-sensor-pi",
             "repo": "https://github.com/virtual-labs/exp-ultrasonic-sensor-pi-au",
-            "tag": "v1.0.0",
+            "tag": "v1.1.0",
             "deploy": true
         },
         {
             "name": "Raspberry Pi Motor Control with Relay",
             "short-name": "motor-relay-pi",
             "repo": "https://github.com/virtual-labs/exp-interface-motor-pi-au",
-            "tag": "v1.0.0",
+            "tag": "v1.1.0",
             "deploy": true
         },
         {
@@ -64,7 +64,7 @@
             "name": "Raspberry Pi Pico-LED Blink Program Via Bluetooth and Smartphone",
             "short-name": "bluetooth-led-control-pi",
             "repo": "https://github.com/virtual-labs/exp-interface-bluetooth-with-pi-au",
-            "tag": "v1.0.0",
+            "tag": "v1.1.0",
             "deploy": true
         }
     ],
