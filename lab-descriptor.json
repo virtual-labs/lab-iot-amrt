@@ -64,7 +64,7 @@
             "name": "Raspberry Pi Pico-LED Blink Program Via Bluetooth and Smartphone",
             "short-name": "bluetooth-led-control-pi",
             "repo": "https://github.com/virtual-labs/exp-interface-bluetooth-with-pi-au",
-            "tag": "v1.1.0",
+            "tag": "v1.1.1",
             "deploy": true
         }
     ],
